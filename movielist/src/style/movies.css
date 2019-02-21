@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+    margin-left: 7%;
+}
+
+h1{
+    color: crimson;
+    margin-left: 2%;
+    margin-bottom: 30px;
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+h2{
+    margin-left: 50px;
+    color: aliceblue;
+}
+
+.Movie_box{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+    margin-left: 30px;
+}
+
+.movie {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.bigTitle{
+    color: aliceblue;
+}
+
+button {
+    margin-left: 0px;
+    
+}
+
+.show{
+    display: inline
+} 
+
+.hide{
+    visibility: hidden;
+}
+
+.title{
+    text-align: center;
+    color: aliceblue;
+}
+
+ul{
+    list-style-type: square;
+    color: aliceblue;
+    margin-left: 30px;
+}
+
+
+
